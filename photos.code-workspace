@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "photos",
+			"path": "../photos"
+		},
+		{
+			"name": "FoodOrdering",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

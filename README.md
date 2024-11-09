@@ -49,8 +49,9 @@ STRIPE_SECRET_KEY=YOUR_STRIPE_SECRET_KEY
 ```
 
 ## Installation and Execution
-```
+
 Clone the project and install dependencies:
+```
 git clone git remote add origin https://github.com/TatyOko28/Food-Ordering-Mob.git
 cd FoodOrderingApp
 npm install

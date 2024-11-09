@@ -23,7 +23,6 @@ This food ordering app offers a sleek interface and powerful backend, delivering
   <img src="/photos/5.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/6.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/7.webp" width="200" alt="Product details Screen"/>
-  <img src="/photos/8.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/9.webp" width="200" alt="Payment Screen"/>
   <img src="/photos/10.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/11.webp" width="200" alt="Product details Screen"/>

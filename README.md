@@ -14,7 +14,7 @@ This food ordering app offers a sleek interface and powerful backend, delivering
 ---
 
 ## Screenshots
-<<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/photos/0.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/1.webp" width="200" alt="Product details Screen"/>
   <img src="/photos/2.webp" width="200" alt="Product details Screen"/>

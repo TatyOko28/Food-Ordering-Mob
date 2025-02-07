@@ -32,7 +32,7 @@ This food ordering app offers a sleek interface and powerful backend, delivering
 
 ## Prerequisites
 
-Before you begin, ensure you have the following:
+Before you begin, ensure you have the followings:
 - [Node.js](https://nodejs.org/) version 14.x or above
 - [Expo CLI](https://docs.expo.dev/get-started/installation/) installed globally
 - A [Supabase](https://supabase.com/) account with API keys
